@@ -8,7 +8,7 @@ Core logic for handling requests is in `index.js`
 
 ## To test
 
-Try accessing: https://vijilla-function-server-redirect.azurewebsites.net/api/<any-path> <br/>
+Try accessing: https://vijilla-function-server-redirect.azurewebsites.net/api/any-random-path <br/>
 It returns a "hello world", as expected
   
 Try accessing https://vijilla-function-server-redirect.azurewebsites.net/api/next_function <br/>
